@@ -16,9 +16,11 @@ To integrate and test the agent locally, follow these steps:
 
 1.  **Start the Development Server:**
     In a new terminal, run:
+
     ```bash
     yarn dev
     ```
+
     This will serve the test page on `http://localhost:5678`.
 
 2.  **Configure `public/index.html`:**
